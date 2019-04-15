@@ -1,0 +1,113 @@
+2019-04-15 [16:48:08] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-15 [16:48:08] [Server thread/INFO]: Loading server properties...
+2019-04-15 [16:48:08] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-15 [16:48:08] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-15 [16:48:08] [Server thread/INFO]: Starting remote control listener
+2019-04-15 [16:48:08] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-04-15 [16:48:08] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-15 [16:48:08] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-15 [16:48:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-15 [16:48:08] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-15 [16:48:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-15 [16:48:09] [Server thread/INFO]: Loading resource packs...
+2019-04-15 [16:48:09] [Server thread/NOTICE]: World "world" not found
+2019-04-15 [16:48:09] [Server thread/INFO]: Preparing world "world"
+2019-04-15 [16:48:09] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2019-04-15 [16:48:09] [Server thread/INFO]: Starting GS4 status listener
+2019-04-15 [16:48:09] [Server thread/INFO]: Setting query port to 19132
+2019-04-15 [16:48:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-15 [16:48:09] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-15 [16:48:09] [Server thread/INFO]: Done (1.256s)! For help, type "help" or "?"
+2019-04-15 [16:48:18] [RakLibServer thread/NOTICE]: Refused connection from 192.168.3.140 57622 due to incompatible RakNet protocol version (expected 9, got 8)
+2019-04-15 [16:51:33] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-15 [16:51:33] [Server thread/INFO]: Loading server properties...
+2019-04-15 [16:51:33] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-15 [16:51:33] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.10
+2019-04-15 [16:51:33] [Server thread/INFO]: Starting remote control listener
+2019-04-15 [16:51:33] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-04-15 [16:51:33] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-15 [16:51:33] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-15 [16:51:33] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-15 [16:51:33] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-743 "[REDACTED]" (API 3.0.0-ALPHA11)
+2019-04-15 [16:51:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-15 [16:51:33] [Server thread/INFO]: Loading recipes...
+2019-04-15 [16:51:34] [Server thread/INFO]: Loading resource packs...
+2019-04-15 [16:51:34] [Server thread/INFO]: Preparing level "world"
+2019-04-15 [16:51:34] [Server thread/INFO]: Starting GS4 status listener
+2019-04-15 [16:51:34] [Server thread/INFO]: Setting query port to 19132
+2019-04-15 [16:51:34] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-15 [16:51:34] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-15 [16:51:34] [Server thread/INFO]: Done (1.205s)! For help, type "help" or "?"
+2019-04-15 [16:51:43] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged out due to You need to authenticate to Xbox Live.
+2019-04-15 [16:51:48] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged out due to You need to authenticate to Xbox Live.
+2019-04-15 [16:51:54] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged out due to You need to authenticate to Xbox Live.
+2019-04-15 [16:52:48] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged out due to You need to authenticate to Xbox Live.
+2019-04-15 [16:52:56] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-15 [16:52:56] [Server thread/INFO]: Loading server properties...
+2019-04-15 [16:52:56] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-15 [16:52:56] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.10
+2019-04-15 [16:52:56] [Server thread/INFO]: Starting remote control listener
+2019-04-15 [16:52:56] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-04-15 [16:52:56] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2019-04-15 [16:52:56] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2019-04-15 [16:52:56] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2019-04-15 [16:52:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-15 [16:52:56] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-743 "[REDACTED]" (API 3.0.0-ALPHA11)
+2019-04-15 [16:52:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-15 [16:52:56] [Server thread/INFO]: Loading recipes...
+2019-04-15 [16:52:56] [Server thread/INFO]: Loading resource packs...
+2019-04-15 [16:52:56] [Server thread/INFO]: Preparing level "world"
+2019-04-15 [16:52:56] [Server thread/INFO]: Starting GS4 status listener
+2019-04-15 [16:52:56] [Server thread/INFO]: Setting query port to 19132
+2019-04-15 [16:52:56] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-15 [16:52:56] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-15 [16:52:56] [Server thread/INFO]: Done (0.864s)! For help, type "help" or "?"
+2019-04-15 [16:53:00] [Server thread/NOTICE]: Player data not found for "merdi", creating new profile
+2019-04-15 [16:53:02] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged in with entity id 1 at (world, 256, 70, 256)
+2019-04-15 [16:53:05] [Server thread/INFO]: Merdi joined the game
+2019-04-15 [16:53:18] [Server thread/INFO]: [Merdi: Set own game mode to Creative Mode]
+2019-04-15 [16:53:32] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-15 [16:53:36] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2019-04-15 [16:53:36] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2019-04-15 [16:53:36] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2019-04-15 [16:53:36] [Server thread/INFO]: /banlist: View all players banned from this server
+2019-04-15 [16:53:36] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2019-04-15 [16:53:36] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2019-04-15 [16:53:36] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2019-04-15 [16:53:36] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2019-04-15 [16:53:36] [Server thread/INFO]: /enchant: Adds enchantments on items
+2019-04-15 [16:53:36] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2019-04-15 [16:53:36] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2019-04-15 [16:53:36] [Server thread/INFO]: /help: Shows the help menu
+2019-04-15 [16:53:36] [Server thread/INFO]: /kick: Removes the specified player from the server
+2019-04-15 [16:53:36] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2019-04-15 [16:53:36] [Server thread/INFO]: /list: Lists all online players
+2019-04-15 [16:53:36] [Server thread/INFO]: /me: Performs the specified action in chat
+2019-04-15 [16:53:36] [Server thread/INFO]: /op: Gives the specified player operator status
+2019-04-15 [16:53:36] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2019-04-15 [16:53:36] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2019-04-15 [16:53:36] [Server thread/INFO]: /particle: Adds particles to a world
+2019-04-15 [16:53:36] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2019-04-15 [16:53:36] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2019-04-15 [16:53:36] [Server thread/INFO]: /save-all: Saves the server to disk
+2019-04-15 [16:53:36] [Server thread/INFO]: /save-off: Disables server autosaving
+2019-04-15 [16:53:36] [Server thread/INFO]: /save-on: Enables server autosaving
+2019-04-15 [16:53:36] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2019-04-15 [16:53:36] [Server thread/INFO]: /seed: Shows the world seed
+2019-04-15 [16:53:36] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2019-04-15 [16:53:36] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2019-04-15 [16:53:36] [Server thread/INFO]: /stop: Stops the server
+2019-04-15 [16:53:36] [Server thread/INFO]: /tell: Sends a private message to the given player
+2019-04-15 [16:53:36] [Server thread/INFO]: /time: Changes the time on each world
+2019-04-15 [16:53:36] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2019-04-15 [16:53:36] [Server thread/INFO]: /title: Controls screen titles
+2019-04-15 [16:53:36] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2019-04-15 [16:53:36] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2019-04-15 [16:53:36] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2019-04-15 [16:53:36] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2019-04-15 [16:53:47] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-15 [16:54:35] [Server thread/WARNING]: Merdi moved too fast, reverting movement
+2019-04-15 [16:54:37] [Server thread/WARNING]: Merdi moved too fast, reverting movement
+2019-04-15 [16:54:38] [Server thread/WARNING]: Merdi moved too fast, reverting movement
+2019-04-15 [16:59:35] [Server thread/INFO]: Merdi left the game
+2019-04-15 [16:59:35] [Server thread/INFO]: Merdi[/192.168.3.140:57622] logged out due to timeout
